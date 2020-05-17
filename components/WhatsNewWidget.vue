@@ -26,6 +26,9 @@
         <p>
           We have been promoted from BizSafe Level 3 to BizSafe Level 4!
         </p>
+        <p>
+          <div id="what_news_link"><nuxt-link to="/whats-new/" class="text_link">read more</nuxt-link></div>
+        </p>
       </div>
       <div style="clear:both;"></div>
     </div>
